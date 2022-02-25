@@ -1,0 +1,1 @@
+Hola <strong>{{ $name }}</strong>!.
